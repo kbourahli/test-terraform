@@ -4,7 +4,7 @@ variable "gcp_project" {
 
 variable "instance_name" {
   description = "The name of the instance."
-  default     = "demo-user"
+  default     = "kbou-demo-user"
 }
 
 variable "username" {
